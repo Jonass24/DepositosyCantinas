@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "BAR LA HERRADURA", "TEL": "", "URL": "", "ADDRESS1": "CALLE AURELIO SOSA TORRES , SN,CENTRO, CARDENAS, Tab.", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [  -93.3751476, 17.9944514 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "BAR EL SIGLO 21", "TEL": "937 335 4086", "URL": "", "ADDRESS1": "CALLE RAMÓN SOSA TORRES , SN, Centro, Cárdenas, TABASCO", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.3742081, 17.9950837 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "BAR LA TROJE", "TEL": "937 323 2104", "URL": "", "ADDRESS1": "CALLE MOCTEZUMA , SN,Centro, Cárdenas, TABASCO.", "ADDRES2": null, "CITY": "New York", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -93.37380729, 17.99294211 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "BAR LA ESCONDIDA", "TEL": "937 333 0676", "URL": "", "ADDRESS1": "CALLE ÁUREO L. CALLES , 210, Centro, Cárdenas, TABASCO", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.3763216, 17.9962383 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "BAR LA BRASA", "TEL": "937 333 4808", "URL": "", "ADDRESS1": "CALLE SANTOS DEGOLLADO , 216,Centro, Cárdenas, TABASCO", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.374387, 17.9931562 ] } }
+
+
+]
+}

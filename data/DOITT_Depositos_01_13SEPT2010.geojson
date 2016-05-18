@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Cerveceria Cuauhtemoc Moctezuma", "TEL": "", "URL": "", "ADRESS1": "Calle Ramón Sosa Torres 139 , Centro,86500, Cárdenas, Tabasco, Tabasco ", "ADDRESS2": null, "CITY": "", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -93.3741991, 17.99576] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Cervezas superior", "TEL": "", "URL": "", "ADRESS1": "Calle Reyes Hernández S/N , Pueblo Nuevo, 86500, Cárdenas, Tabasco", "ADDRESS2": null, "CITY": "", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -93.3823555, 17.988427 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Ultramarinos El Paso", "TEL": "", "URL": "", "ADRESS1": "Calle Adolfo López Mateos, Colonia pueblo nuevo, Cardenas, Tabasco", "ADDRESS2": null, "CITY": "Paraiso,Tabasco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.38428449, 17.99021196 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "CERVECAR", "TEL": "", "URL": "", "ADRESS1": "CALLE MOCTEZUMA , SN, Centro, Cardenas, Tabasco", "ADDRESS2": null, "CITY": "", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.3723996, 17.9950014 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "ULTRAMARINOS LA ESPINA", "TEL": "", "URL": "", "ADRESS1": "AVENIDA BENITO JUÁREZ , 203, Centro, Cardenas, Tabasco", "ADDRESS2": null, "CITY": "", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -93.3749992, 17.9969208 ] } }
+
+
+]
+}
